@@ -21,6 +21,7 @@ DIY Projects/Tools/Books for Makers
 ## 目录
 
 * [Awesome Technical DIY](#awesome-technical-diy)
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/)
   * [目录](#目录)
   * [资源](#资源)
     * [书籍与杂志](#书籍与杂志)
@@ -617,4 +618,3 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 
 
-- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that ships 7-layer shadow-box SVGs with an editable name plate plus 6500px PNG renders. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/).

@@ -616,4 +616,5 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 本作品采用[知识共享署名 4.0 国际许可协议](http://creativecommons.org/licenses/by/4.0/)进行许可。
 
 
-- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that procedurally generates 7-layer shadow-box SVG mandalas (one file per physical layer) plus 6500px PNG renders, with quality gates and a static storefront; runs entirely on GitHub Actions.
+
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that ships 7-layer shadow-box SVGs with an editable name plate plus 6500px PNG renders. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/).
